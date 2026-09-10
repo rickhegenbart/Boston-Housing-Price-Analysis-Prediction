@@ -1,5 +1,11 @@
 # Boston-Housing-Price-Analysis-Prediction
 
+> **MIT Professional Certificate in AI & Data Science**
+>
+> This project was completed as part of the MIT Professional Certificate in AI & Data Science program.
+>
+> [View the complete four-project certificate portfolio](https://github.com/users/rickhegenbart/projects/2)
+
 README Document | Data Analysis and Machine Learning Portfolio Project
 Project Description
 This project uses data analysis and machine learning to explore and predict Boston housing prices. The workflow includes exploratory data analysis, feature relationship review, regression modeling, and model evaluation. The goal is to understand which housing and neighborhood variables are most related to median home values and to build a predictive model for housing price estimation.
