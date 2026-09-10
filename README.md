@@ -6,7 +6,7 @@
 >
 > [View the complete four-project certificate portfolio](https://github.com/users/rickhegenbart/projects/2)
 >
-> Project Overview
+Project Overview
 
 README Document | Data Analysis and Machine Learning Portfolio Project
 Project Description
