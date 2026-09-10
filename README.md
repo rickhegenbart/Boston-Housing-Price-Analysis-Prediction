@@ -5,6 +5,8 @@
 > This project was completed as part of the MIT Professional Certificate in AI & Data Science program.
 >
 > [View the complete four-project certificate portfolio](https://github.com/users/rickhegenbart/projects/2)
+>
+> Project Overview
 
 README Document | Data Analysis and Machine Learning Portfolio Project
 Project Description
